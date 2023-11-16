@@ -3,7 +3,7 @@
 
 - 🍻 CS master candidate in [HUST](https://www.hust.edu.cn/)
 - ⚡ C++ / Go
-- 💦 DB / Cloud
+- 💦 Cloud
 - ❤ Music / Arknights
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uncle-Justice&layout=compact&hide_border=true)
